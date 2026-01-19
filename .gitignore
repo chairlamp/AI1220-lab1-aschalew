@@ -3,3 +3,5 @@ receipts
 docs
 __pycache__
 COMMAND_API_OPENAI_KEY.txt
+COMMAND_API_OPENAI.txt
+.env
