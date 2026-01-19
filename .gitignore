@@ -1,0 +1,4 @@
+.venv
+receipts
+docs
+__pycache__
